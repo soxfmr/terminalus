@@ -1,0 +1,2 @@
+d22b1f26dcaa97414d7e75e573c74c798ba1843a8e0d320f6f5c5b1c9afa466f  Terminalus Dark.terminal
+1be1383e9c4318fc44cbe8ed77de70ad996c2cee80676f8a45e32f94a84cb4f5  Terminalus Light.terminal
